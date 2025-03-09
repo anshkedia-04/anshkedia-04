@@ -44,7 +44,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 📫 **Email:** anshkedia04@gmail.com  
 💼 **Portfolio:** [anshkedia.dev](https://anshkedia.dev)
 
----
 
 
 
