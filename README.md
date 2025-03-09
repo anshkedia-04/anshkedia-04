@@ -46,9 +46,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 
 ---
 
-### 🚀 GitHub Stats:
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshkedia-04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshkedia-04&layout=compact&theme=radical)
+
 
 ---
 
