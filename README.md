@@ -7,12 +7,12 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Programming Languages:** Python, JavaScript, C++
-- **Machine Learning & Deep Learning:** TensorFlow, Keras, PyTorch, OpenCV
+- **Programming Languages:** Python, Java
+- **Machine Learning & Deep Learning:** TensorFlow, Keras, OpenCV, CNN
 - **Data Science & Analytics:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Databases:** MongoDB, MySQL
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask
-- **Cloud & DevOps:** Azure Fundamentals, Git, Docker
+- **Cloud & DevOps:** Azure Fundamentals, Git
 - **Others:** Jupyter Notebook, VS Code, Postman
 
 ---
