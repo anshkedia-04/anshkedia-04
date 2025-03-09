@@ -19,7 +19,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 
 ### 📌 Featured Projects:
 🚀 **[AI-Based Attendance System](https://github.com/anshkedia-04/AI-Attendance-System)**  
-- Developed a face recognition-based attendance system using **CNN, Flask, MongoDB, and OpenCV**.
+- Developed a face recognition-based attendance system using **CNN, Flask, MongoDB, and OpenCV**. 
 - Utilized **Queue & HashMap** for real-time student record management.
 
 🖐 **[Real-Time Sign Detection Model](https://github.com/anshkedia-04/Sign-Detection-Model)**  
@@ -52,6 +52,10 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 
 ---
 
+### 🏆 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/anshkedia04?theme=dark&font=ABeeZee)
+
+---
+
 ### 🌟 Fun Fact:
 💡 I’m always exploring new AI advancements and building innovative projects in **Machine Learning & Web Development**!
-
