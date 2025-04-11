@@ -22,10 +22,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 - Built a CNN-powered model to detect and recognize sign language gestures.
 - Created a frontend for real-time predictions.
 
-🖐 **[Real-Time Sign Detection Model](https://github.com/anshkedia-04/Sign-Detection-Model)**  
-- Built a CNN-powered model to detect and recognize sign language gestures.  
-- Created a frontend for real-time predictions.
-
 🧠 **[Emotion Detection Model](https://github.com/anshkedia-04/Emotion-Detection-Model)**  
 - Developed a CNN-based model using OpenCV to detect human emotions from real-time webcam input.  
 - Integrated a responsive frontend for live camera feed and emotion predictions.
