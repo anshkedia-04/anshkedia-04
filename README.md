@@ -8,7 +8,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 
 ### 🛠️ Technologies & Tools:
 - **Programming Languages:** Python, Java
-- **Machine Learning & Deep Learning:** TensorFlow, Keras, OpenCV, CNN
+- **Machine Learning & Deep Learning:** TensorFlow, Keras, OpenCV, CNN, Mediapipe
 - **Data Science & Analytics:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Databases:** MongoDB, MySQL
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask
@@ -18,21 +18,21 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 ---
 
 ### 📌 Featured Projects:
-🚀 **[AI-Based Attendance System](https://github.com/anshkedia-04/AI-Attendance-System)**  
-- Developed a face recognition-based attendance system using **CNN, Flask, MongoDB, and OpenCV**. 
-- Utilized **Queue & HashMap** for real-time student record management.
-
 🖐 **[Real-Time Sign Detection Model](https://github.com/anshkedia-04/Sign-Detection-Model)**  
 - Built a CNN-powered model to detect and recognize sign language gestures.
-- Created a frontend using **React.js** for real-time predictions.
+- Created a frontend for real-time predictions.
 
-🧭 **[Navigation Assistance for Blind People](https://github.com/anshkedia-04/Navigation-For-Blind)**  
-- Designed an AI-based navigation system to help visually impaired individuals move from **PLACE A to PLACE B**.
-- Integrated **computer vision and speech recognition** for seamless navigation.
+🖐 **[Real-Time Sign Detection Model](https://github.com/anshkedia-04/Sign-Detection-Model)**  
+- Built a CNN-powered model to detect and recognize sign language gestures.  
+- Created a frontend for real-time predictions.
 
-🔍 **[Portfolio Website](https://github.com/anshkedia-04/Portfolio)**  
-- Showcasing my work with a **highly animated CSS design**.
-- Includes **resume, projects, services, and social links**.
+🧠 **[Emotion Detection Model](https://github.com/anshkedia-04/Emotion-Detection-Model)**  
+- Developed a CNN-based model using OpenCV to detect human emotions from real-time webcam input.  
+- Integrated a responsive frontend for live camera feed and emotion predictions.
+
+🏠 **[Real Estate House Price Detection](https://github.com/anshkedia-04/Real-Estate-Price-Predictor)**  
+- Built a regression-based ML model to predict house prices based on key features like location, area, and amenities.  
+- Designed an interactive frontend for user input and dynamic price prediction display.
 
 ---
 
