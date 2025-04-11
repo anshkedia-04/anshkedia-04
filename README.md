@@ -38,7 +38,6 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshkedia_04)
 
 📫 **Email:** anshkedia04@gmail.com  
-💼 **Portfolio:** [anshkedia.dev](https://anshkedia.dev)
 
 
 
