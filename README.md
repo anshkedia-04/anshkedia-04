@@ -38,7 +38,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anshkedia_04)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshkedia_04)
 
-📫 **Email:** anshkedia04@gmail.com  // 2203031050861@paruluniversiy.ac.in
+📫 **Email:** anshkedia04@gmail.com / 2203031050861@paruluniversiy.ac.in
 
 
 
