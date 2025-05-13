@@ -18,17 +18,18 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 ---
 
 ### 📌 Featured Projects:
-🖐 **[Real-Time Sign Detection Model](https://github.com/anshkedia-04/Sign-Detection-Model)**  
+🖐 **[SignScript : Real-Time Sign Detection Model](https://github.com/anshkedia-04/Sign-Detection-Model)**  
 - Built a CNN-powered model to detect and recognize sign language gestures.
 - Created a frontend for real-time predictions.
-
-🧠 **[Emotion Detection Model](https://github.com/anshkedia-04/Emotion-Detection-Model)**  
-- Developed a CNN-based model using OpenCV to detect human emotions from real-time webcam input.  
-- Integrated a responsive frontend for live camera feed and emotion predictions.
 
 🏠 **[Real Estate House Price Detection](https://github.com/anshkedia-04/Real-Estate-Price-Predictor)**  
 - Built a regression-based ML model to predict house prices based on key features like location, area, and amenities.  
 - Designed an interactive frontend for user input and dynamic price prediction display.
+
+🧠 **[NeuroScan : Brain Tumor Detection from MRI](https://github.com/anshkedia-04/NeuroScan)**  
+- Developed a CNN-based model using OpenCV to detect brain-tumour from MRI scan input..  
+- Integrated gradio for user interaction.
+
 
 ---
 
