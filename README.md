@@ -6,14 +6,43 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 
 ---
 
-### 🛠️ Technologies & Tools:
-- **Programming Languages:** Python, Java
-- **Machine Learning & Deep Learning:** TensorFlow, Keras, OpenCV, CNN, Mediapipe
-- **Data Science & Analytics:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Databases:** MongoDB, MySQL
-- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask
-- **Cloud & DevOps:** Azure Fundamentals, Git
-- **Others:** Jupyter Notebook, VS Code, Postman
+## 🛠️ Technologies & Tools  
+
+### 👨‍💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+
+### 🤖 Machine Learning & Deep Learning  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![CNN](https://img.shields.io/badge/CNN-008080?style=for-the-badge)  
+![Mediapipe](https://img.shields.io/badge/Mediapipe-009688?style=for-the-badge)  
+
+### 📊 Data Science & Analytics  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge)  
+![Seaborn](https://img.shields.io/badge/Seaborn-FF6F61?style=for-the-badge)  
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🌐 Web Development  
+![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=react&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+
+### ☁️ Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+### 🛠️ Others  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
 
 ---
 
