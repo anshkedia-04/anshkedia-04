@@ -18,11 +18,11 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a st
 ---
 
 ### 📌 Featured Projects:
-💳 **[FaceMask 360 : AI-Based Face Recognition Attendance System](https://github.com/anshkedia-04/FaceMask-360)**  
+💳 **[FaceMask 360 : AI-Based Face Recognition Attendance System](https://github.com/anshkedia-04/Face_Mask_360)**  
 - Designed a real-time attendance marking system using Facenet and OpenCV.  
 - Integrated with a queue and HashMap for efficient student record management.  
 
-🏠 **[Bengaluru House Price Prediction](https://github.com/anshkedia-04/Bengaluru-House-Price-Prediction)**  
+🏠 **[Bengaluru House Price Prediction](https://github.com/anshkedia-04/House-Price-Prediction-)**  
 - Built a regression-based ML model to predict house prices using Bengaluru housing dataset.  
 - Designed an interactive interface for user input and dynamic price prediction results.  
 
