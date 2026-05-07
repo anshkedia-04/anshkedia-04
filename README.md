@@ -91,7 +91,11 @@ I’m a passionate **Machine Learning and Generative AI enthusiast** with experi
 - Career Essentials in Generative AI – Microsoft  
 - Introduction to Generative AI – Google Cloud  
 - Python Essentials – Cisco  
-- Introduction to Data Science – Cisco  
+- Introduction to Data Science – Cisco
+
+---
+
+### 🏆 LeetCode Stats: ![LeetCode Stats](https://leetcard.jacoblin.cool/anshkedia04?theme=dark&font=ABeeZee)
 
 ---
 
