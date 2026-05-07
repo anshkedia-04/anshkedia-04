@@ -1,84 +1,100 @@
 ### Hi there, I'm [Ansh Kedia](https://github.com/anshkedia-04) 👋
 
-🚀 **Machine Learning & Data Science Enthusiast | Full-Stack Developer**
+🚀 **Machine Learning Engineer | Generative AI Enthusiast | Full-Stack Developer**
 
-I'm a passionate **Data Scientist** and **Machine Learning Engineer**, with a strong background in **Deep Learning, Data Analytics, and Backend Development**. I love solving complex problems with AI and building real-world applications using cutting-edge technologies.
+🌐 **Portfolio:** [anshkedia.onrender.com](https://anshkedia.onrender.com/)
+
+I’m a passionate **Machine Learning and Generative AI enthusiast** with experience in building real-world AI applications involving **LLMs, Computer Vision, NLP, and Data Analytics**. I enjoy developing intelligent systems, solving complex problems, and exploring modern AI technologies such as **LangChain, RAG pipelines, Agentic AI, and Deep Learning**.
 
 ---
 
-## 🛠️ Technologies & Tools  
+# 🛠️ Technologies & Tools  
 
-### 👨‍💻 Programming Languages  
+## 👨‍💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### 🤖 Machine Learning & Deep Learning  
+## 🤖 Machine Learning & Generative AI  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![CNN](https://img.shields.io/badge/CNN-008080?style=for-the-badge)  
-![Mediapipe](https://img.shields.io/badge/Mediapipe-009688?style=for-the-badge)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge)  
+![LLM](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)  
+![RAG](https://img.shields.io/badge/RAG-008080?style=for-the-badge)  
 
-### 📊 Data Science & Analytics  
+## 📊 Data Science & Analytics  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF6F61?style=for-the-badge)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### 🌐 Web Development  
-![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=react&logoColor=white)  
+## 🌐 Web & Backend Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)  
 
-### ☁️ Cloud & DevOps  
+## ☁️ Cloud & Tools  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
-### 🛠️ Others  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
+---
+
+# 📌 Featured Projects
+
+### 🤖 FaceMask – AI-Based Attendance System  
+🔗 [GitHub Repository](https://github.com/anshkedia-04/Face_Mask_360)  
+- Developed a real-time face recognition attendance system using FaceNet and OpenCV with >99% accuracy.  
+- Optimized performance using embedding caching for faster recognition and startup time.  
+- Built a Streamlit dashboard with live webcam integration and secure attendance monitoring.  
 
 ---
 
-### 📌 Featured Projects:
-💳 **[FaceMask 360 : AI-Based Face Recognition Attendance System](https://github.com/anshkedia-04/Face_Mask_360)**  
-- Designed a real-time attendance marking system using Facenet and OpenCV.  
-- Integrated with a queue and HashMap for efficient student record management.  
-
-🏠 **[Bengaluru House Price Prediction](https://github.com/anshkedia-04/House-Price-Prediction-)**  
-- Built a regression-based ML model to predict house prices using Bengaluru housing dataset.  
-- Designed an interactive interface for user input and dynamic price prediction results.  
-
-☕ **[BrewBot : Café Chatbot](https://github.com/anshkedia-04/BrewBot)**  
-- Developed a LangChain-powered chatbot tailored for cafés.  
-- Integrated menu, FAQs, and offers into an interactive conversational system.  
-
-
+### ✈️ VoyageAI – Smart Travel Assistant  
+🔗 [GitHub Repository](https://github.com/anshkedia-04/VoyageAI-Smart-Travel-Assistant)  
+- Built an AI-powered travel planner using LangChain and Google Maps API for personalized itinerary generation.  
+- Integrated OpenAI GPT and FAISS for semantic travel recommendations and intelligent trip queries.  
+- Developed a Streamlit interface with live map visualization and route optimization features.  
 
 ---
 
-### 📢 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansh-kedia-249843266/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anshkedia_04)
+### 🏥 MedAssist XR – AI Healthcare Companion  
+[GitHub Repository](https://github.com/anshkedia-04/MedAssist-XR)  
+- Created an AI-powered healthcare assistant for symptom analysis and lab report interpretation.  
+- Implemented an Agentic AI system using FastAPI and Groq LLM for conversational healthcare guidance.  
+- Integrated Geoapify and Foursquare APIs for location-based healthcare insights and recommendations.  
+
+---
+
+# 📢 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ansh-kedia-249843266/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anshkedia_04)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshkedia_04)
 
-📫 **Email:** anshkedia04@gmail.com / 2203031050861@paruluniversiy.ac.in
-
-
-
+📫 **Email:** anshkedia04@gmail.com  
 
 ---
 
-### 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/anshkedia04?theme=dark&font=ABeeZee)
+# 🏆 Certifications
+
+- Career Essentials in Generative AI – Microsoft  
+- Introduction to Generative AI – Google Cloud  
+- Python Essentials – Cisco  
+- Introduction to Data Science – Cisco  
 
 ---
 
-### 🌟 Fun Fact:
-💡 I’m always exploring new AI advancements and building innovative projects in **Machine Learning & Web Development**!
+# 🌟 Fun Fact
+
+💡 I enjoy building AI-powered systems that combine Machine Learning, LLMs, and real-world applications to solve practical problems and create impactful user experiences.
